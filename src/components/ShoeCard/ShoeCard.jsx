@@ -93,7 +93,6 @@ const Flag = styled.span`
 
 const ImageWrapper = styled.div`
   position: relative;
-  border-radius: 16px 16px 4px 4px;
 `;
 
 const Image = styled.img`
